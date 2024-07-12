@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 # save the web site and add the path to the below.
 
-file_path = '/home/dr3/2-2_ps/prog/N_rag/ins.html'  
+file_path = '/path/to/ins.html'  
 
 try:
     with open(file_path, 'r') as file:
