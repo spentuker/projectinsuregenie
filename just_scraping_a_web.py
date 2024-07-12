@@ -1,6 +1,7 @@
 import re
 from bs4 import BeautifulSoup
 
+# save the web site and add the path to the below.
 
 file_path = '/home/dr3/2-2_ps/prog/N_rag/ins.html'  
 
